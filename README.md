@@ -1,5 +1,5 @@
 # 💫 About Me:
-The projects I am currently working on is a Personal Website to showcase my skills.<br>I am also working on a StreamLit Applications to store Pokémon data. <br>I am looking to collaborate with fellow coding and robotics enthusiasts. I aspire create web applications and one day integrate both smoothly. <br>I am currently learning UX Design, web applications with StreamLit and ML concepts with Python. I also want to start re-coding games I have played in the pasts. <br>You can ask me about Java and Python concepts, and also movies. <br>A fun fact about me is that I love dogs and documentaries about strange topics. 
+The project I am currently working on is a Personal Website to showcase my skills.<br>I am also working on a StreamLit Applications to store Pokémon data. <br>I am looking to collaborate with fellow coding and robotics enthusiasts. I aspire create web applications and one day integrate both smoothly. <br>I am currently learning UX Design, web applications with StreamLit and ML concepts with Python. I also want to start re-coding games I have played in the pasts. <br>You can ask me about Java and Python concepts, and also movies. <br>A fun fact about me is that I love dogs and documentaries about strange topics. 
 
 
 ## 🌐 Socials:
